@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ClassicMan11
-- 👀 I’m interested in Full-Stack Web Development, Python Programming. 
-- 🌱 I’m currently learning JavaScript, and other Front and Backend Languages.
+- 👋 Hi, I’m Harmony Agbamu.
+- 👀 I’m interested in Full-Stack Web Development, AI, Machine Learning, Web and App Development. 
+- 🌱 I’m currently learning React, and other Front and Backend Languages.
 - 💞️ I’m looking to collaborate on this current project
 - 📫 Reach me on Instagram @ClassicMan_107, 
 
